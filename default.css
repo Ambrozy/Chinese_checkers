@@ -1,0 +1,20 @@
+body > img{
+	
+}
+.item{
+	position:absolute;
+}
+.item.active{
+	opacity:.5;
+}
+#content{
+	position: absolute;
+    top: 28px;
+    left: 64px;
+}
+#who{
+	font-size:18px;
+	padding:20px;
+	line-height:25px;
+	vertical-align:top;
+}
